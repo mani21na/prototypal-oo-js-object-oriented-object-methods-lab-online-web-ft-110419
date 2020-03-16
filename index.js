@@ -15,3 +15,7 @@ BoardMember.prototype.approve = function () {
 BoardMember.prototype.doCharity = function () {
   console.log("I like to help people.");
 };
+
+BoardMember.prototype.releasePressStatement = function () {
+  console.log("I like to help people.");
+};
