@@ -11,3 +11,7 @@ BoardMember.prototype.veto = function () {
 BoardMember.prototype.approve = function () {
   console.log("You can do that!");
 };
+
+BoardMember.prototype.doCharity = function () {
+  console.log("YI like to help people.");
+};
