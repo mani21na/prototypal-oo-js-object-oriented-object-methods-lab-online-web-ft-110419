@@ -9,13 +9,13 @@ BoardMember.prototype.veto = function () {
 };
 
 BoardMember.prototype.approve = function () {
-  console.log("You can do that!");
+  return "You can do that!";
 };
 
 BoardMember.prototype.doCharity = function () {
-  console.log("I like to help people.");
+  return "I like to help people.";
 };
 
 BoardMember.prototype.releasePressStatement = function () {
-  console.log("I like to help people.");
+  return "You will see great things from Scuber.";
 };
