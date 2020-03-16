@@ -13,5 +13,5 @@ BoardMember.prototype.approve = function () {
 };
 
 BoardMember.prototype.doCharity = function () {
-  console.log("YI like to help people.");
+  console.log("I like to help people.");
 };
